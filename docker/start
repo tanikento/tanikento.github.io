@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+cd "$(dirname "$0")"/..
+
+docker-compose restart
+APP=grayscale_ghpages_1
+docker attach $APP
