@@ -7,7 +7,7 @@ description: "Web Engineer"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#FF0000'
 
 # Footer settings
 footer: taniken's portfolio
@@ -15,15 +15,9 @@ footer: taniken's portfolio
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/tanikenbz
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/tanikento
 
 # Build settings
 markdown: kramdown
